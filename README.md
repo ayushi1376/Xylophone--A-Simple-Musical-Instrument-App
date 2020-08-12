@@ -1,6 +1,6 @@
 # Xylophone--A-Simple-Musical-Instrument-App
-Play Xylophone whenever you want.
-Pocket Xylophone.
+### .Play Xylophone whenever you want.
+### .Pocket Xylophone.
 Xylophone - A Simple Musical Instrument App using Flutter
 
 ## What this app do?
